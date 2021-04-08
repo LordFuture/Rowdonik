@@ -12,18 +12,7 @@ I am giving myself the challenge of building a game engine. I must be mad.
 * [Contact](#contact)
 
 ## General info
-For sh\*\*s and giggles, I am going to attemp to build a game engine from scratch .
-
-I got the assets and code ideas from the following two sites: 
-
-* [Make A Pong Game With Unity 2D](https://www.awesomeinc.org/tutorials/unity-pong/ "Make A Pong Game With Unity 2D")
-* [Unity 2D Pong Game](https://noobtuts.com/unity/2d-pong-game "Unity 2D Pong Game")
-
-The following resources were also useful:
-
-* [Godot Docs](https://docs.godotengine.org/en/stable/index.html "Godot Docs")
-* [Godot C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html "Godot C#")
-* [YouTube Video: Learn Godot by creating Pong](https://www.youtube.com/watch?v=kr1BoEbuveI "Learn Godot by creating Pong")
+For sh\*\*s and giggles, I am going to attempt to build a game engine from scratch .
 
 ## Screenshots
 N/A
